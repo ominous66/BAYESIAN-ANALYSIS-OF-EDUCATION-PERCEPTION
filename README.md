@@ -47,10 +47,5 @@ The rapid expansion of online educationâ€”accelerated by the COVID-19 pandemicâ€
 - **Programming:** R (bqror package), Python, data wrangling and visualization.
 - **Data Analysis:** Pandas, NumPy, statistical inference, and result interpretation.
 
-## References
 
-- Ojha, M., & Rahman, M. A. (2021). *Do online courses provide an equal educational value compared to in-person classroom teaching? Evidence from U.S. survey data using quantile regression*. Education Policy Analysis Archives.
 
-## Acknowledgments
-
-Project completed as part of ECO545 under the guidance of **Prof. Arshad Rahman** at the Indian Institute of Technology Kanpur.
